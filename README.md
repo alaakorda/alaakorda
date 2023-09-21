@@ -1,10 +1,10 @@
-<h1 align='center'>Hi there, I'm Alaa!:innocent: </h1>
+<h1 align='center'> <font color="black">Hi there, I'm Alaa! </font>:innocent: </h1>
 
 <h3 align='center'> 
-  I'm a Computer Science student.
+ <font color="black"> I'm a Computer Science student. </font>
   
   <br>
-        I love coding with Flutter and enjoy solving problems 💙
+       <font color="black"> I love coding with Flutter and enjoy solving problems </font> 💙
 
 </h3>
 <br>
