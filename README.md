@@ -1,11 +1,9 @@
 <h1 align='center'> <font color="black">Hi there, I'm Alaa! </font>:innocent: </h1>
 
 <h3 align='center'> 
- <font color="black"> I'm a Computer Science student. </font>
-  
+  I'm a <font color="black">Computer Science student</font>.
   <br>
-       <font color="black"> I love coding with Flutter and enjoy solving problems </font> 💙
-
+  I <font color="black">love coding with Flutter</font> and <font color="black">enjoy solving problems 💙</font>
 </h3>
 <br>
 <p align='center'>
