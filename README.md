@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align='center'>Hi there, I'm Alaa!:innocent: </h1>
 
-<!--
-**alaakorda/alaakorda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align='center'> I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
 
-Here are some ideas to get you started:
+</h3>
+<br>
+<p align='center'>
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaakorda&layout=compact&theme=radical&langs_count=8">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+</p>
+<br>
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alaazakaria/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:alaazakaria436@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/alaakorda">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  
+</p>
