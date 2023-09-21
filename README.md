@@ -1,9 +1,10 @@
 <h1 align='center'>Hi there, I'm Alaa!:innocent: </h1>
 
-<h3 align='center'> I'm a Computer Science student.
+<h3 align='center'> 
+  I'm a Computer Science student.
   
   <br>
-  I love coding with Flutter and enjoy solving problems 💙
+        I love coding with Flutter and enjoy solving problems 💙
 
 </h3>
 <br>
